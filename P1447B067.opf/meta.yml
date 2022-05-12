@@ -90,3 +90,8 @@ source_metadata:
       parent: Yarlha Shampo
 created_at: '2022-03-01T03:27:20.286067'
 last_modified_at: '2022-03-01T03:27:20.286069'
+statistics:
+  total_words: 10585
+  total_non_words: 1573
+quality:
+  non_words_ratio: 0.15
